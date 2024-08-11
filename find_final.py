@@ -25,6 +25,10 @@ def find_final(desired_course, scrapy=None):
         return('Date: ' + str(master_dic[desired_course]['Date']) + ' Time: ' + str(master_dic[desired_course]['Time']) + ' Location: ' + str(master_dic[desired_course]['Location']))
     else :
         return('Please enter a course name with a valid final.')
+    
+desired_course = input('What course would you like to search for? ')
+
+print(find_final(desired_course))
 
 
 

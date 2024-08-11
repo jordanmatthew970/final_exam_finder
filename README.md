@@ -1,6 +1,6 @@
 # Final Exam Finder
 
-Final Exam Finder is a Python script that allows for the search of final exam details based on the course name at Yale University for Spring 2024.
+Final Exam Finder is a Python script that allows for the search of final exam details based on the course name at Yale University for Spring 2024 using the webscraping Python package scrapy.
 
 ## Installation
 

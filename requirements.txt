@@ -1,0 +1,2 @@
+﻿scrapy==2.11.2
+requests
